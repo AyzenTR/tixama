@@ -1,0 +1,14 @@
+{
+  "name": "tixama",
+  "version": "0.0.1",
+  "description": "",
+  "main": "tixama.js",
+  "scripts": {
+    "test": "node tixama.js"
+  },
+  "author": "tixama",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
